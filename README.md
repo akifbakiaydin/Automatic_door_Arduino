@@ -56,3 +56,7 @@ antalya_kapi_final_fixed.zip
 ---
 
 <sub>© Akif Baki Aydın — private project.</sub>
+
+## 📄 License
+
+View-only — all rights reserved. The code may be viewed on GitHub but not copied, used, modified or redistributed without written permission. See [LICENSE](LICENSE).
